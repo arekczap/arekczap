@@ -11,4 +11,4 @@ You can see what I am currently up to on [arekczapski.site][1].
 
 ### Skills
 
-[![Javascript Badge](https://img.shields.io/badge/React-entry%20level-green?style=for-the-badge&logo=react)](#)
+[![(https://img.shields.io/badge/React-entry%20level-green?style=for-the-badge&logo=react)](#)
