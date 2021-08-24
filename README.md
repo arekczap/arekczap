@@ -7,8 +7,3 @@
 - 🖥️ I’m currently work in Company Pyramid.games
 - 🌱 I’m currently learning React, React Native
 
-You can see what I am currently up to on [arekczapski.site][1].
-
-### Skills
-
-[![(https://img.shields.io/badge/React-entry%20level-green?style=for-the-badge&logo=react)](#)
